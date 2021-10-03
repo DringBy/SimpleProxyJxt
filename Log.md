@@ -64,3 +64,23 @@
 
 - **Who is l chan**
 
+### 10.2
+
+####### I went out and played with my friends, hardly had I learnt something.
+> #### Version Update
+
+- ###### none
+
+> #### What I learnt
+
+- ###### How to set the configuration of GoLang in VSCode
+
+### 10.3
+
+> #### Version Update
+
+- ###### none
+
+> #### What I learnt
+
+- ###### It's the most difficult day. I tried to understand the HTTP Request, but almost failed; I tried to understand how to realize the function by go, so I downloaded a code from GitHub, but I didn't understand it well. I event can't use that code or nginx to get the result. I think I actually haven't understand the question, and need some help from others.
