@@ -66,7 +66,8 @@
 
 ### 10.2
 
-####### I went out and played with my friends, hardly had I learnt something.
+###### I went out and played with my friends, hardly had I learnt something.
+
 > #### Version Update
 
 - ###### none
@@ -84,3 +85,14 @@
 > #### What I learnt
 
 - ###### It's the most difficult day. I tried to understand the HTTP Request, but almost failed; I tried to understand how to realize the function by go, so I downloaded a code from GitHub, but I didn't understand it well. I event can't use that code or nginx to get the result. I think I actually haven't understand the question, and need some help from others.
+
+### 10.4 & 10.5
+
+> #### Version Update
+
+- ###### A simple Server and a Client, which can transport some message between each other.
+
+> #### What I learnt
+
+- ###### Use Golang to make TCP programming.(Next is HTTP)
+
