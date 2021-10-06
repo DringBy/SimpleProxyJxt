@@ -8,27 +8,7 @@
 
 > #### What I learnt
 
-- ###### How to use git command:
-
-  - ###### git init
-
-  - ###### git add
-
-  - ###### git commit
-
-  - ###### git status
-
-  - ###### git diff
-
-  - ###### git reset
-
-  - ###### git log
-
-  - ###### git reflog
-
-  - ###### git remote
-
-  - ###### git push
+- ###### How to use git command
 
 - ###### How to create a new repository
 
@@ -95,4 +75,18 @@
 > #### What I learnt
 
 - ###### Use Golang to make TCP programming.(Next is HTTP)
+
+### 10.6
+
+###### Come back to HUST. 
+
+> #### Version Update
+
+- ###### none
+
+> #### What I learnt
+
+- ###### Go Process
+
+- ###### Go Types
 
