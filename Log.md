@@ -90,3 +90,17 @@
 
 - ###### Go Types
 
+### 10.7
+
+###### Desperate.
+
+> #### Version Update
+
+- ###### A Server
+
+- ###### A Proxy which can receive requests
+
+> #### What I learnt
+
+- ###### About Go (Too much to remember)
+
